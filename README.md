@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on improving my front-end development skills and diving deep into Three.js.<br>👯 I’m looking to collaborate on cool web development and AI/ML projects.<br>🤝 I’m looking for help with mastering Three.js and advanced GSAP animations.<br>🌱 I’m currently learning Three.js, GSAP, Redux, and deepening my front-end knowledge.<br>💬 Ask me about front-end development, Python, or anything related to web animations.
 
 
