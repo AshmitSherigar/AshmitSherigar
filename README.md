@@ -1,5 +1,5 @@
 # About Me:
-I'm a full-stack developer passionate about building interactive, responsive, and real-time web experiences. I enjoy crafting clean UIs, solving backend challenges, and learning by building.<br><br>Tech I Work With<br>- **Frontend:** React, Tailwind CSS, GSAP, Framer Motion  <br>- **Backend:** Node.js, Express, MongoDB<br>- **Other:** Git, Postman, NumPy, Pandas<br><br>---
+I'm a full-stack developer passionate about building interactive, responsive, and real-time web experiences. I enjoy crafting clean UIs, solving backend challenges, and learning by building.<br><br>Tech I Work With<br>- **Frontend:** React, Tailwind CSS, GSAP, Framer Motion  <br>- **Backend:** Node.js, Express, MongoDB<br>- **Other:** Git, Postman, NumPy, Pandas<br><br>
 
 
 ## Socials:
